@@ -12,7 +12,7 @@ class Book {
     public void displayDetails() {
         System.out.println("Book Title: " + title);
         System.out.println("Author: " + author);
-        System.out.println("Price: $" + price);
+        System.out.println("Price: " + price);
     }
 
     public static void main(String[] args) {
